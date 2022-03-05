@@ -1,0 +1,4 @@
+name: Firstplugin
+version: '${project.version}'
+main: me.junias20.firstplugin.Firstplugin
+api-version: 1.18
